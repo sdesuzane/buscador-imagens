@@ -15,8 +15,5 @@ CSS: Estilização para criar a interface do usuário.
 
 JavaScript: Interação com a API da Unsplash e manipulação dinâmica da página.
 
-### Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para criar pull requests para melhorias, correções de bugs ou novos recursos.
-
 ### Autor
 Maria Suzane - @sdesuzane
